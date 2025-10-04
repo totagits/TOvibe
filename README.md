@@ -4,7 +4,7 @@ A comprehensive, multi-tenant, white-label SaaS platform for marketing agencies 
 
 TOTAG Nexus is a production-grade, multi-tenant, white-label SaaS platform designed as an all-in-one solution for marketing agencies and small-to-medium businesses. It provides a centralized hub for managing core business operations including CRM, marketing automation, sales pipelines, customer support, website and funnel building, appointment scheduling, reputation management, online courses, e-commerce, project management, and social media. The platform is built on an API-first, modular, and event-driven architecture, ensuring scalability, security, and a modern user experience. Its core value proposition is enabling agencies to offer a branded, comprehensive software suite to their own clients under one roof.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/totagits/TOvibe)
 
 ## Key Features
 
@@ -97,7 +97,7 @@ This command will build the application and deploy it to your Cloudflare account
 
 Alternatively, you can deploy directly from your GitHub repository:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/totagits/TOvibe)
 
 ## License
 
